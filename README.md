@@ -1,23 +1,26 @@
 # Hi, I'm Tony 👋  
 
-🔐 **Ethical Security Consultant | Penetration Tester | OSINT Specialist | Remote Tech Support**  
+🔐 **Ethical Security Consultant | Penetration Tester | OSINT Specialist**  
 
-Passionate about cybersecurity, threat hunting, and OSINT, I transitioned from a successful career in logistics into cybersecurity during the COVID-19 pandemic.  
+Ranked in the **Top 1% on TryHackMe** and an active Hack The Box participant, I work as an **independent consultant** helping organizations identify risks, prove impact, and close security gaps — before attackers exploit them.  
 
-⚡ Ranked in the **Top 1% on TryHackMe** and an active Hack The Box participant, I focus on identifying risks, proving impact, and helping organizations strengthen their defenses. Beyond security, I also provide remote tech support for individuals and small businesses
+I bring a **strategic and analytical mindset** from my background in logistics and supply chain, combined with hands-on security testing, OSINT investigations, and responsible disclosure.  
 
----
+## 🛠 What I Do  
+- Penetration Testing & Vulnerability Assessments  
+- OSINT & Recon Automation  
+- Bug Bounty & Responsible Disclosure  
+- Physical Security Assessments  
+- QA Testing for Security, Performance & Functionality  
 
-## 🛠 Core Expertise  
-- **Penetration Testing & Vulnerability Assessments** (Web Apps, APIs, Network Infra)  
-- **OSINT & Recon Automation**  
-- **Bug Bounty & Responsible Disclosure**  
-- **Physical Security Assessments**  
-- **QA Testing for Security, Performance & Functionality**
-- **Remote Tech Support (Individuals & Small Businesses)**  
+## ✍️ Blog & Knowledge Sharing  
+I publish **practical writeups and workflows** on my [personal site](https://tonykhoriaty.github.io) — from recon tips to penetration testing methodologies.  
+My goal: make security **measurable, actionable, and ethical**.  
 
----
-
-## 📫 Connect with Me  
+## 📬 Connect with Me  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/tony-khoriaty/)
 - 📧 [Email](mailto:tkhoriaty@proton.me)  
+
+---
+
+⚠️ *Disclaimer*: All content shared is for **educational purposes only**. Security testing must only be performed with explicit permission.  
