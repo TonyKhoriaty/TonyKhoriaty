@@ -4,7 +4,7 @@
 
 Ranked in the **Top 1% on TryHackMe** and an active Hack The Box participant, I work as an **independent consultant** helping organizations identify risks, prove impact, and close security gaps — before attackers exploit them.  
 
-I bring a **strategic and analytical mindset** from my background in logistics and supply chain, combined with hands-on security testing, OSINT investigations, and responsible disclosure.  
+I believe security should be **ethical**, **reproducible**, and **accessible** — especially in regions where awareness is low and risks are high. I bring a **strategic and analytical mindset** from my background in **logistics and supply chain**, combined with hands-on experience in **security testing**, **OSINT investigations**, and **responsible disclosure**. This blend allows me to approach security challenges with both **operational clarity** and **ethical intent** — turning complexity into **actionable defense**.
 
 ## 🛠 What I Do  
 - Penetration Testing & Vulnerability Assessments  
@@ -14,12 +14,13 @@ I bring a **strategic and analytical mindset** from my background in logistics a
 - QA Testing for Security, Performance & Functionality  
 
 ## ✍️ Blog & Knowledge Sharing  
-I publish **practical writeups and workflows** on my [personal site](https://tonykhoriaty.github.io) — from recon tips to penetration testing methodologies.  
+I’m currently preparing **practical writeups and workflows** — from recon tips to penetration testing methodologies.  
 My goal: make security **measurable, actionable, and ethical**.  
+🕓 Coming soon.
 
 ## 📬 Connect with Me  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/tony-khoriaty/)
-- 📧 [Email](mailto:tkhoriaty@proton.me)  
+- 📧 Email: [tkhoriaty at proton dot me](mailto:tkhoriaty@proton.me "Please use responsibly")
 
 ---
 
